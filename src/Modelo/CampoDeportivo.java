@@ -6,7 +6,7 @@ package Modelo;
 public class CampoDeportivo{
 
  private int idCampo;
-    private String nombre;
+    private String nombre
     private String ubicacion;
     private String descripcion;
     private float precioMinuto;
